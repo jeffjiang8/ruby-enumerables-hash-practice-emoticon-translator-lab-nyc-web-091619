@@ -1,5 +1,5 @@
 # require modules here
-require YML
+require "ymal"
 
 def load_library
   # code goes here
